@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "We are a Survey and Geotechnical firm",
+    "paragraph": "\"We provide training, technical support and management consultancy services to the oil and gas industry. We specialize in providing Land Survey Services, offshore hydrographic surveys, Remotely Operated Vehicle (ROV) inspection and intervention surveys as well as geophysical survey services. A full complement of ROV, geotechnical and geophysical equipment are maintained in Nigeria along with fully trained and experienced national and expatriate survey and engineering personnel.\""
+  },
+  "About": {
+    "paragraph": "C.G.S.L is an indigenous company incorporated in Nigeria that has evolved into a leading front-end company providing a range of land survey, dredging support, offshore survey and support services to the Nigerian Oil and Gas sector.",
+    "Why": [
+      "We Are known for Excellence",
+      "Quality Service Delivery",
+      "Speedy Service Delivery",
+      "We Are Highly Reliable"
+    ],
+    "Why2": [
+      "We Have Integrity",
+      "Good Customer Relationship",
+      "Standard Corporate Social Relationship",
+      "We Care About The Environment"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "ROV service",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/ROV.png"
+    },
+    {
+      "title": "Geotechnical investigation",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/geotech.jpg"
+    },
+    {
+      "title": "Geotechnical investigation",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/geophysical.jpg"
+    },
+    {
+      "title": "Dredging Support",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/image.jpg"
+    },
+    {
+      "title": "Geotechnical investigation",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/geo.jpg"
+    },
+    {
+      "title": "Geotechnical investigation",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/samp.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "",
+      "name": "Dredging Support",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "",
+      "name": "Remotely Operated Vehicle",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "",
+      "name": "Geophysical Survey and Positioning Services",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "",
+      "name": "Land Survey",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "",
+      "name": "As-built Engineering",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Geotechnical Investigation Services",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Dredging and Sanfilling of Otumara SPDC Location. By Erdis Nig Limited",
+      "year": 2012
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Preliminary Investigation,FullPrep Survey and Capital Dredging of Sarton 1 Chevron Location. By Epenal Nig Limited.",
+      "year": 2019
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Capital Dredging of Ohvor Well 7 Seplat Development and Production location. By FW Dredging",
+      "year": 2019
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "",
+      "year": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "year": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "year": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Surv Chidi Nwankwo",
+      "job": "Managing Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mrs Evelyn Nwankwo",
+      "job": "Administrator"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Surv Nestor Okafor",
+      "job": "Partner Surveyor"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Surv Jeffery Ogudu",
+      "job": "Partner Surveyor"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Surv Asodike Mulumba",
+      "job": "Party Chief"
+    }
+  ],
+  "Contact": {
+    "address": "Rumuokwurusi Civic Centre, Rumuokwurusi Port Harcourt. ",
+    "phone": "+234 803 669 1447",
+    "email": "chidi.cardinalgeonet@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Land Survey",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Dredging Support",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Remotely Operated Vehicle",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Geophysical Survey and Positioning Services",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Geotechnical Investigation Services",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
